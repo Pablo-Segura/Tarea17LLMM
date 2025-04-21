@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>ZonaJuegos</title>
+    <link>https://zonajuegosprueba.com/</link>
+    <description>En esta página encontrarás las últimas novedades sobre el mundo de los videojuegos. Próximos lanzamientos, eventos y más todo en ZonaJuegos.</description>
+    <atom:link href="https://zonajuegosprueba.com/rss/tarea17.xml" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    <managingEditor>zonajuegos@gmail.com</managingEditor>
+    <pubDate>Mon, 21 Apr 2025 16:19:54 GMT</pubDate>
+    <lastBuildDate>Mon, 21 Apr 2025 16:56:39 GMT</lastBuildDate>
+    <generator>Absolute RSS Editor</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Nintendo anuncia nueva consola híbrida</title>
+      <link>https://zonajuegos.com/noticias/nueva-consola-nintendo</link>
+      <description>&lt;![CDATA[
+  &lt;img src="https://zonajuegos.com/img/nintendo-nueva.jpg"&gt;&lt;br&gt;
+  Se filtra información sobre la sucesora de la Switch.
+]]&gt;</description>
+      <guid isPermaLink="false">CED2EF1A-8E9E-4F32-B924-234CC04A6113</guid>
+      <pubDate>Mon, 21 Apr 2025 16:19:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Top 5 juegos indie de este mes</title>
+      <link>https://zonajuegos.com/articulos/top5-indie-abril</link>
+      <description>&lt;![CDATA[
+  &lt;img src="https://zonajuegos.com/img/top5indie.jpg"&gt;&lt;br&gt;
+  Traemos una lista con los cinco mejores juegos independientes de abril.
+]]&gt;</description>
+      <guid isPermaLink="false">64749D0D-5A89-4391-8453-E079AC0EFF09</guid>
+      <pubDate>Mon, 21 Apr 2025 16:19:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elden Ring recibe una expansión gratuita</title>
+      <link>https://zonajuegos.com/noticias/elden-ring-expansion</link>
+      <description>&lt;![CDATA[
+  &lt;img src="https://zonajuegos.com/img/eldenring-expansion.jpg"&gt;&lt;br&gt;
+  FromSoftware lanza “Shadow of the Erdtree”gratuitamente para los jugadores.
+]]&gt;</description>
+      <guid isPermaLink="false">9BE62EEF-65EE-4A6F-9F91-D14E4A2414E3</guid>
+      <pubDate>Mon, 21 Apr 2025 16:17:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lanzamiento de Hollow Knight: Silksong</title>
+      <link>https://zonajuegos.com/noticias/silksong-lanzamiento</link>
+      <description>&lt;![CDATA[
+  &lt;img src="https://zonajuegos.com/img/silksong.jpg"&gt;&lt;br&gt;
+  El esperado juego ya tiene fecha de salida. 
+]]&gt;</description>
+      <guid isPermaLink="false">45915B1A-7D44-4265-A96D-45F391C2A774</guid>
+      <pubDate>Mon, 21 Apr 2025 16:10:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nuevo trailer de GTA VI</title>
+      <link>https://zonajuegos.com/noticias/gta-vi-trailer</link>
+      <description>&lt;![CDATA[
+  &lt;img src="https://zonajuegos.com/img/gta6.jpg"&gt;&lt;br&gt;
+  Rockstar lanza un nuevo tráiler del esperado Grand Theft Auto VI. 
+]]&gt;</description>
+      <guid isPermaLink="false">A81DA62F-10F8-487A-A9B7-C039B3D2853E</guid>
+      <pubDate>Mon, 21 Apr 2025 16:07:57 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
